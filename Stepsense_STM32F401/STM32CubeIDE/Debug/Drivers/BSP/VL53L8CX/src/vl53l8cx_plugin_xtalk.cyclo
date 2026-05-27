@@ -1,0 +1,7 @@
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L8CX/src/vl53l8cx_plugin_xtalk.c:20:16:_vl53l8cx_poll_for_answer	4
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L8CX/src/vl53l8cx_plugin_xtalk.c:49:16:_vl53l8cx_program_output_config	8
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L8CX/src/vl53l8cx_plugin_xtalk.c:114:9:vl53l8cx_calibrate_xtalk	12
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L8CX/src/vl53l8cx_plugin_xtalk.c:239:9:vl53l8cx_get_caldata_xtalk	1
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L8CX/src/vl53l8cx_plugin_xtalk.c:266:9:vl53l8cx_set_caldata_xtalk	1
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L8CX/src/vl53l8cx_plugin_xtalk.c:277:9:vl53l8cx_get_xtalk_margin	1
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L8CX/src/vl53l8cx_plugin_xtalk.c:290:9:vl53l8cx_set_xtalk_margin	2

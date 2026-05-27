@@ -1,0 +1,7 @@
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L5CX_Platform/vl53l5cx_platform.c:18:9:VL53L5CX_RdByte	1
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L5CX_Platform/vl53l5cx_platform.c:26:9:VL53L5CX_WrByte	1
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L5CX_Platform/vl53l5cx_platform.c:34:9:VL53L5CX_WrMulti	1
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L5CX_Platform/vl53l5cx_platform.c:43:9:VL53L5CX_RdMulti	1
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L5CX_Platform/vl53l5cx_platform.c:52:9:VL53L5CX_Reset_Sensor	1
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L5CX_Platform/vl53l5cx_platform.c:56:6:VL53L5CX_SwapBuffer	2
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Drivers/BSP/VL53L5CX_Platform/vl53l5cx_platform.c:67:9:VL53L5CX_WaitMs	1

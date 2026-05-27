@@ -1,0 +1,9 @@
+../../Core/Inc/common_protocol.h:43:24:Compute_Checksum	3
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Core/Src/sensing_engine.c:54:6:Sensing_Debug_Print	1
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Core/Src/sensing_engine.c:66:13:I2C_Recover	2
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Core/Src/sensing_engine.c:110:5:Sensing_Engine_Init	14
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Core/Src/sensing_engine.c:257:13:Pack_Payload_L5CX	4
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Core/Src/sensing_engine.c:269:13:Pack_Payload_L8CX	4
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Core/Src/sensing_engine.c:280:13:Setup_Header	1
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Core/Src/sensing_engine.c:292:6:Sensing_Engine_Update	12
+E:/STM32CubeIDE_Workplace/Stepsense_260307/Core/Src/sensing_engine.c:359:6:Sensing_Engine_Push	11
